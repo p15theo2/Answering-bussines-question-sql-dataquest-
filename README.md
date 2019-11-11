@@ -1,4 +1,4 @@
 # Answering bussines question using sql dataquest.
-A simple project made for dataquest sql courses.
+A simple quided project from dataquest sql courses.
 
 Check Sql.ipynb for more info.
